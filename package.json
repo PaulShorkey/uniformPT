@@ -1,0 +1,19 @@
+{
+  "name": "uniformpt",
+  "version": "1.0.0",
+  "description": "Tells you what the pt uniform will be tomorrow",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulShorkey/uniformPT.git"
+  },
+  "author": "Paul Shorkey-Chacon and Michael Pingleton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulShorkey/uniformPT/issues"
+  },
+  "homepage": "https://github.com/PaulShorkey/uniformPT#readme"
+}
